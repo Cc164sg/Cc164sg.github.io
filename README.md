@@ -84,7 +84,7 @@
 
 <body>
 
-<h1>Feliz 28,<br>te amo ❤️</h1>
+<h1>Feliz 28<br>te amo ❤️</h1>
 <div class="contador">Clicks de amor: <span id="count">0</span></div>
 
 <script>
